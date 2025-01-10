@@ -1,0 +1,40 @@
+{
+    "Name": "[11C]PS13 demonstrates pharmacologically selective and substantial binding to cyclooxygenase-1 (COX-1) in the human brain",
+    "BIDSVersion": "v1.6.0",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Nafiseh Ghazanfari",
+        "Jeih-San Liow",
+        "Min-Jeong Kim",
+        "Raven Cureton",
+        "Adrian Lee",
+        "Carson Knoer",
+        "Madeline Jenkins",
+        "Jinsoo Hong",
+        "Jose A. Montero Santamaria",
+        "H. Umesha Shetty",
+        "Anthony Galassi",
+        "Paul Wighton",
+        "Martin Norgaard",
+        "Douglas N. Greve",
+        "Sami S. Zoghbi",
+        "Victor W Pike",
+        "Robert B Innis",
+        "Paolo Zanotti-Fregonara"
+    ],
+    "Acknowledgements": "",
+    "HowToAcknowledge": "Submitted to Journal of Nuclear Medicine as an Original Research Article, April 2024",
+    "Funding": [
+        "This study was funded by the Intramural Research Program of the National Institute of Mental Health (ZIAMH002852)",
+        "This study was funded by the Intramural Research Program of the National Institute of Mental Health (NCT04396873)",
+        "BRAIN Initiative grant (R24MH120004)"
+    ],
+    "EthicsApprovals": [
+        "All participants gave written informed consent. Study procedures were approved by the NIH Institutional Review Board."
+    ],
+    "ReferencesAndLinks": [
+        "Kim MJ, Lee JH, Juarez Anaya F, Hong J, Miller W, Telu S, Singh P, Cortes MY, Henry K, Tye GL, Frankland MP, Montero Santamaria JA, Liow JS, Zoghbi SS, Fujita M, Pike VW, Innis RB. First-in-human evaluation of [11C]PS13, a novel PET radioligand, to quantify cyclooxygenase-1 in the brain. Eur J Nucl Med Mol Imaging. 2020 Dec;47(13):3143-3151. doi: 10.1007/s00259-020-04855-2. Epub 2020 May 12. PMID: 32399622; PMCID: PMC8261645."
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds004868.v1.0.4"
+}
